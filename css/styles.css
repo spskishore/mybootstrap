@@ -37,3 +37,12 @@ body{
 .navbar-dark {
      background-color: #512DA8;
 }
+
+#reserve{
+    margin-left: 90px;
+    margin-bottom: 40px;
+}
+
+#iform{
+    margin:20px;
+}
